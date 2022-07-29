@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link href="CSStest1.css" rel="CSStest1">
+<link rel="CSStest1" href="CSStest1.css">
 <html>
 <head>
 <style>
