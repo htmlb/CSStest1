@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<link rel="CSStest1" href="CSStest1.css">
-<html>
 <head>
+<link rel="stylesheet" type="text/css" href="CSStest1.css" media=”screen” />
+</head>
+<html>
+  
 <style>
 h1 {
   color: blue;
